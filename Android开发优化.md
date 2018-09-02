@@ -1,6 +1,6 @@
 #### 几篇android优化相关的文章
 
-  * [Android 优化之路(一)布局优化] (https://juejin.im/post/5b67eca85188251aad21324f)
+ * [Android 优化之路(一)布局优化](https://juejin.im/post/5b67eca85188251aad21324f)
 
  * [如何优雅地构建易维护、可复用的 Android 业务流程](https://juejin.im/post/5b0a7088f265da0db721cf73)
 

@@ -54,7 +54,7 @@ some Android adb shell, which we used for android developing.
 
   ```
   adb shell dumpsys window
- ```
+  ```
 
 * 9.当我们需要知道设备的分辨率时
 

@@ -3,7 +3,9 @@
 some Android adb shell, which we used for android developing.
 
 
-* # Android adb常用命令,在进行调试的时候,对我们的工作有帮助，提高效率,可以常翻常用.
+* # Android adb常用命令
+
+在进行调试的时候,对我们的工作有帮助，提高效率,可以常翻常用.
 
 * 1.查看最上层成activity名字:
 

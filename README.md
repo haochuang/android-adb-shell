@@ -458,23 +458,20 @@ some Android adb shell, which we used for android developing.
   adb shell dumpsys
 ```
 
-
 * 56.显示内存信息
-
 ```
   adb shell dumpsys meminfo system
 ```
 
-
 * 57.删除包相关的所有数据(数据和缓存)
 
-````
-  adb shell clear <packageName>`
+```
+  adb shell clear <packageName>
 ```
 
 * 58.输出安装包的 apk 路径
 
-````
+```
   adb shell pm path <packages>`
 ```
  
@@ -509,7 +506,6 @@ some Android adb shell, which we used for android developing.
 ```
 
 * 64.统计系统耗电量
-
 
 ```
   adb shell dumpsys batterystats
